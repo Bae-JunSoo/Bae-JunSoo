@@ -1,37 +1,49 @@
-# 👋 안녕하세요, 저는 Bae-JunSoo입니다!
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Bae-JunSoo's%20GitHub%20Profile&fontSize=30&fontColor=ffffff)
 
-## 🎓 저에 대해
-- 🎓 **현재 한국폴리텍대학교 서울 강서 캠퍼스**에서 **클라우드 컴퓨팅**, **빅 데이터**, **AI** 관련 학과를 전공하고 있는 학생입니다.
-- 💻 기술을 배우고 **오픈 소스 프로젝트**에 기여하며 **AI**와 **Cloud Computing** 분야에 대한 깊은 관심을 가지고 있습니다.
-- 🧑‍💻 **Cloud Native Application**, **MSA**, **Big Data** 관련 실습을 진행하며 배우고 있습니다.
+## 👋 안녕하세요! Bae-JunSoo 입니다.
 
-## 🛠️ 기술 스택 및 관심 분야
-- **Cloud & DevOps**: Kubernetes, Docker, Helm, ArgoCD
-- **백엔드 & 프로그래밍**: Java (Spring Boot), Python (FastAPI, Flask, TensorFlow)
-- **빅 데이터**: Hadoop, Spark, Kafka, MongoDB, Redis
-- **AI & 머신러닝**: Transformers, Hugging Face, NLP, RAG
-- **CI/CD & 자동화**: GitHub, Jenkins
-- **기타**: Serverless (WasmEdge), 함수형 프로그래밍 (WebFlux)
+- 🌱 현재 **웹 개발**을 공부하고 있습니다.
+- 🔭 최근에는 **React**와 **Node.js**를 활용한 프로젝트를 진행 중입니다.
+- 💬 기술 관련 토론을 좋아하며, 새로운 도전에 열려 있습니다.
+- 📫 이메일: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 블로그: [https://your-blog.com](https://your-blog.com)
 
-## 🚀 주요 프로젝트
-- **[SpringJpaJdk17](https://github.com/Bae-JunSoo/SpringJpaJdk17)**: **Java 17**과 **JPA**를 사용한 실습 프로젝트.
-- **[msaJava17](https://github.com/Bae-JunSoo/msaJava17)**: **Spring 3.x**와 **Java 17** 기반으로 마이크로서비스 아키텍처(MSA) 프로젝트 구현.
-- **[modelForTF](https://github.com/Bae-JunSoo/modelForTF)**: **TensorFlow**를 사용하여 **AI 모델**을 생성하는 프로젝트.
-- **[hadoopWebPRJ](https://github.com/Bae-JunSoo/hadoopWebPRJ)**: **Hadoop**을 활용한 빅 데이터 웹 서비스 프로젝트.
+## 🛠 기술 스택
 
-## 🎯 2025년 목표
-- ✅ **AI** 및 **빅 데이터** 분야의 심화 지식 습득 및 프로젝트 진행.
-- ✅ **Cloud Native** 애플리케이션 개발 능력 향상.
-- ✅ **오픈 소스** 프로젝트에 기여하여 기술력 쌓기.
-- ✅ **AI** 및 **빅 데이터** 관련 연구 발표.
+- **프론트엔드**:
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=ffffff)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
 
-## 📊 GitHub 통계
-![Bae-JunSoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-JunSoo&show_icons=true&count_private=true&hide=prs&hide_title=true)
+- **백엔드**:
+  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+  - ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=ffffff)
 
-## 🌎 저와 연결하세요
-- **LinkedIn**: [Bae-JunSoo's LinkedIn](https://www.linkedin.com/in/Bae-JunSoo)
-- **이메일**: junsoo9023@gmail.com
+- **데이터베이스**:
+  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
 
----
+- **버전 관리**:
+  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)
+  - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff)
 
-> "기술은 지속적으로 학습하며 성장하는 과정입니다. 함께 발전해요!"
+- **개발 도구**:
+  - ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)
+  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)
+  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=ffffff)
+  - ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=ffffff)
+  - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=ffffff)
+
+- **운영 체제**:
+  - ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=ffffff)
+  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=ffffff)
+
+## 📈 GitHub 통계
+
+![Bae-JunSoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bae-JunSoo&show_icons=true&theme=radical)
+
+## 🔗 연락처
+
+- LinkedIn: [https://www.linkedin.com/in/bae-junsoo](https://www.linkedin.com/in/bae-junsoo)
+- Twitter: [https://twitter.com/your_twitter_handle](https://twitter.com/your_twitter_handle)
