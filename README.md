@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Bae-JunSoo's%20GitHub&fontSize=30&fontColor=ffffff)
 
-<h1 align="center">Hi, I'm Bae-JunSoo! 👋</h1>
+<h1 align="center">Hi, I'm 배준수! 👋</h1>
 
 <p align="center">
   <a href="mailto:junsoo9023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
